@@ -1,14 +1,14 @@
 <?php
 
 return array (
-  'GG-CASTEL' => 'Castel',
-  'GG-FOREST' => 'Forest',
-  'GG-ST-ANDREW' => 'St Andrew',
-  'GG-ST-MARTIN' => 'St Martin',
-  'GG-ST-PETER-P' => 'St Peter Port',
-  'GG-ST-PIERRE-' => 'St Pierre du Bois',
-  'GG-ST-SAMPSON' => 'St Sampson',
-  'GG-ST-SAVIOUR' => 'St Saviour',
-  'GG-TORTEVAL' => 'Torteval',
-  'GG-VALE' => 'Vale',
+  'GG-CASTEL' => __('Castel', 'woocommerce-enhanced-regions'),
+  'GG-FOREST' => __('Forest', 'woocommerce-enhanced-regions'),
+  'GG-ST-ANDREW' => __('St Andrew', 'woocommerce-enhanced-regions'),
+  'GG-ST-MARTIN' => __('St Martin', 'woocommerce-enhanced-regions'),
+  'GG-ST-PETER-P' => __('St Peter Port', 'woocommerce-enhanced-regions'),
+  'GG-ST-PIERRE-' => __('St Pierre du Bois', 'woocommerce-enhanced-regions'),
+  'GG-ST-SAMPSON' => __('St Sampson', 'woocommerce-enhanced-regions'),
+  'GG-ST-SAVIOUR' => __('St Saviour', 'woocommerce-enhanced-regions'),
+  'GG-TORTEVAL' => __('Torteval', 'woocommerce-enhanced-regions'),
+  'GG-VALE' => __('Vale', 'woocommerce-enhanced-regions'),
 );

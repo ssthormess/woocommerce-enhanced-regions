@@ -1,8 +1,8 @@
 <?php
 
 return array (
-  'BN-BELAIT' => 'Belait',
-  'BN-BRUNEI-MUA' => 'Brunei-Muara',
-  'BN-TEMBURONG' => 'Temburong',
-  'BN-TUTONG' => 'Tutong',
+  'BN-BELAIT' => __('Belait', 'woocommerce-enhanced-regions'),
+  'BN-BRUNEI-MUA' => __('Brunei-Muara', 'woocommerce-enhanced-regions'),
+  'BN-TEMBURONG' => __('Temburong', 'woocommerce-enhanced-regions'),
+  'BN-TUTONG' => __('Tutong', 'woocommerce-enhanced-regions'),
 );

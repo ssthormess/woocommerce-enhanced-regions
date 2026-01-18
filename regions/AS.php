@@ -1,9 +1,9 @@
 <?php
 
 return array (
-  'AS-E' => 'Eastern',
-  'AS-M' => 'Manu\'a',
-  'AS-R' => 'Rose Island',
-  'AS-S' => 'Swains Island',
-  'AS-W' => 'Western',
+  'AS-E' => __('Eastern', 'woocommerce-enhanced-regions'),
+  'AS-M' => __('Manu\', 'woocommerce-enhanced-regions')a',
+  'AS-R' => __('Rose Island', 'woocommerce-enhanced-regions'),
+  'AS-S' => __('Swains Island', 'woocommerce-enhanced-regions'),
+  'AS-W' => __('Western', 'woocommerce-enhanced-regions'),
 );

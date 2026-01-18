@@ -1,5 +1,5 @@
 <?php
 
 return array (
-  'GU-GU' => 'Guam',
+  'GU-GU' => __('Guam', 'woocommerce-enhanced-regions'),
 );

@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'BA-BIH' => 'Federacija Bosne i Hercegovine',
-  'BA-SRP' => 'Republika Srpska',
-  'BA-BRC' => 'Brčko distrikt',
+  'BA-BIH' => __('Federacija Bosne i Hercegovine', 'woocommerce-enhanced-regions'),
+  'BA-SRP' => __('Republika Srpska', 'woocommerce-enhanced-regions'),
+  'BA-BRC' => __('Brčko distrikt', 'woocommerce-enhanced-regions'),
 );

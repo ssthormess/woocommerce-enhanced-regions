@@ -1,11 +1,11 @@
 <?php
 
 return array (
-  'ST-P' => 'Príncipe',
-  'ST-01' => 'Água Grande',
-  'ST-02' => 'Cantagalo',
-  'ST-03' => 'Caué',
-  'ST-04' => 'Lembá',
-  'ST-05' => 'Lobata',
-  'ST-06' => 'Mé-Zóchi',
+  'ST-P' => __('Príncipe', 'woocommerce-enhanced-regions'),
+  'ST-01' => __('Água Grande', 'woocommerce-enhanced-regions'),
+  'ST-02' => __('Cantagalo', 'woocommerce-enhanced-regions'),
+  'ST-03' => __('Caué', 'woocommerce-enhanced-regions'),
+  'ST-04' => __('Lembá', 'woocommerce-enhanced-regions'),
+  'ST-05' => __('Lobata', 'woocommerce-enhanced-regions'),
+  'ST-06' => __('Mé-Zóchi', 'woocommerce-enhanced-regions'),
 );

@@ -1,13 +1,13 @@
 <?php
 
 return array (
-  'BM-DEVONSHIRE' => 'Devonshire',
-  'BM-HAMILTON' => 'Hamilton',
-  'BM-PAGET' => 'Paget',
-  'BM-PEMBROKE' => 'Pembroke',
-  'BM-SAINT-GEOR' => 'Saint George\'s',
-  'BM-SANDYS' => 'Sandys',
-  'BM-SMITH-S' => 'Smith\'s',
-  'BM-SOUTHAMPTO' => 'Southampton',
-  'BM-WARWICK' => 'Warwick',
+  'BM-DEVONSHIRE' => __('Devonshire', 'woocommerce-enhanced-regions'),
+  'BM-HAMILTON' => __('Hamilton', 'woocommerce-enhanced-regions'),
+  'BM-PAGET' => __('Paget', 'woocommerce-enhanced-regions'),
+  'BM-PEMBROKE' => __('Pembroke', 'woocommerce-enhanced-regions'),
+  'BM-SAINT-GEOR' => __('Saint George\', 'woocommerce-enhanced-regions')s',
+  'BM-SANDYS' => __('Sandys', 'woocommerce-enhanced-regions'),
+  'BM-SMITH-S' => __('Smith\', 'woocommerce-enhanced-regions')s',
+  'BM-SOUTHAMPTO' => __('Southampton', 'woocommerce-enhanced-regions'),
+  'BM-WARWICK' => __('Warwick', 'woocommerce-enhanced-regions'),
 );

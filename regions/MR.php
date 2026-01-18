@@ -1,16 +1,16 @@
 <?php
 
 return array (
-  'MR-NKC' => 'Nouakchott',
-  'MR-NDB' => 'Nouadhibou',
-  'MR-07' => 'Adrar',
-  'MR-03' => 'Assaba',
-  'MR-05' => 'Brakna',
-  'MR-04' => 'Gorgol',
-  'MR-10' => 'Guidimaka',
-  'MR-01' => 'Hodh Ech Chargui',
-  'MR-02' => 'Hodh El Gharbi',
-  'MR-12' => 'Inchiri',
-  'MR-06' => 'Trarza',
-  'MR-11' => 'Tiris Zemmour',
+  'MR-NKC' => __('Nouakchott', 'woocommerce-enhanced-regions'),
+  'MR-NDB' => __('Nouadhibou', 'woocommerce-enhanced-regions'),
+  'MR-07' => __('Adrar', 'woocommerce-enhanced-regions'),
+  'MR-03' => __('Assaba', 'woocommerce-enhanced-regions'),
+  'MR-05' => __('Brakna', 'woocommerce-enhanced-regions'),
+  'MR-04' => __('Gorgol', 'woocommerce-enhanced-regions'),
+  'MR-10' => __('Guidimaka', 'woocommerce-enhanced-regions'),
+  'MR-01' => __('Hodh Ech Chargui', 'woocommerce-enhanced-regions'),
+  'MR-02' => __('Hodh El Gharbi', 'woocommerce-enhanced-regions'),
+  'MR-12' => __('Inchiri', 'woocommerce-enhanced-regions'),
+  'MR-06' => __('Trarza', 'woocommerce-enhanced-regions'),
+  'MR-11' => __('Tiris Zemmour', 'woocommerce-enhanced-regions'),
 );

@@ -1,10 +1,10 @@
 <?php
 
 return array (
-  'TC-PROVIDENCI' => 'Providenciales',
-  'TC-GRAND-TURK' => 'Grand Turk',
-  'TC-NORTH-CAIC' => 'North Caicos',
-  'TC-SOUTH-CAIC' => 'South Caicos',
-  'TC-MIDDLE-CAI' => 'Middle Caicos',
-  'TC-SALT-CAY' => 'Salt Cay',
+  'TC-PROVIDENCI' => __('Providenciales', 'woocommerce-enhanced-regions'),
+  'TC-GRAND-TURK' => __('Grand Turk', 'woocommerce-enhanced-regions'),
+  'TC-NORTH-CAIC' => __('North Caicos', 'woocommerce-enhanced-regions'),
+  'TC-SOUTH-CAIC' => __('South Caicos', 'woocommerce-enhanced-regions'),
+  'TC-MIDDLE-CAI' => __('Middle Caicos', 'woocommerce-enhanced-regions'),
+  'TC-SALT-CAY' => __('Salt Cay', 'woocommerce-enhanced-regions'),
 );

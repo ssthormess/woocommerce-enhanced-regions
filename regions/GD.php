@@ -1,10 +1,10 @@
 <?php
 
 return array (
-  'GD-01' => 'Saint Andrew',
-  'GD-02' => 'Saint David',
-  'GD-03' => 'Saint George',
-  'GD-04' => 'Saint John',
-  'GD-05' => 'Saint Mark',
-  'GD-06' => 'Saint Patrick',
+  'GD-01' => __('Saint Andrew', 'woocommerce-enhanced-regions'),
+  'GD-02' => __('Saint David', 'woocommerce-enhanced-regions'),
+  'GD-03' => __('Saint George', 'woocommerce-enhanced-regions'),
+  'GD-04' => __('Saint John', 'woocommerce-enhanced-regions'),
+  'GD-05' => __('Saint Mark', 'woocommerce-enhanced-regions'),
+  'GD-06' => __('Saint Patrick', 'woocommerce-enhanced-regions'),
 );

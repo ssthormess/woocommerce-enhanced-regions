@@ -1,15 +1,15 @@
 <?php
 
 return array (
-  'NO-42' => 'Agder',
-  'NO-34' => 'Innlandet',
-  'NO-15' => 'Møre og Romsdal',
-  'NO-18' => 'Nordland',
-  'NO-03' => 'Oslo',
-  'NO-11' => 'Rogaland',
-  'NO-54' => 'Troms og Finnmark',
-  'NO-50' => 'Trøndelag',
-  'NO-38' => 'Vestfold og Telemark',
-  'NO-46' => 'Vestland',
-  'NO-30' => 'Viken',
+  'NO-42' => __('Agder', 'woocommerce-enhanced-regions'),
+  'NO-34' => __('Innlandet', 'woocommerce-enhanced-regions'),
+  'NO-15' => __('Møre og Romsdal', 'woocommerce-enhanced-regions'),
+  'NO-18' => __('Nordland', 'woocommerce-enhanced-regions'),
+  'NO-03' => __('Oslo', 'woocommerce-enhanced-regions'),
+  'NO-11' => __('Rogaland', 'woocommerce-enhanced-regions'),
+  'NO-54' => __('Troms og Finnmark', 'woocommerce-enhanced-regions'),
+  'NO-50' => __('Trøndelag', 'woocommerce-enhanced-regions'),
+  'NO-38' => __('Vestfold og Telemark', 'woocommerce-enhanced-regions'),
+  'NO-46' => __('Vestland', 'woocommerce-enhanced-regions'),
+  'NO-30' => __('Viken', 'woocommerce-enhanced-regions'),
 );

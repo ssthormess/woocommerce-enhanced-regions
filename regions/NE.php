@@ -1,12 +1,12 @@
 <?php
 
 return array (
-  'NE-8' => 'Niamey',
-  'NE-1' => 'Agadez',
-  'NE-2' => 'Diffa',
-  'NE-3' => 'Dosso',
-  'NE-4' => 'Maradi',
-  'NE-5' => 'Tahoua',
-  'NE-6' => 'Tillabéri',
-  'NE-7' => 'Zinder',
+  'NE-8' => __('Niamey', 'woocommerce-enhanced-regions'),
+  'NE-1' => __('Agadez', 'woocommerce-enhanced-regions'),
+  'NE-2' => __('Diffa', 'woocommerce-enhanced-regions'),
+  'NE-3' => __('Dosso', 'woocommerce-enhanced-regions'),
+  'NE-4' => __('Maradi', 'woocommerce-enhanced-regions'),
+  'NE-5' => __('Tahoua', 'woocommerce-enhanced-regions'),
+  'NE-6' => __('Tillabéri', 'woocommerce-enhanced-regions'),
+  'NE-7' => __('Zinder', 'woocommerce-enhanced-regions'),
 );

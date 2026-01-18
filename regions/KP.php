@@ -1,16 +1,16 @@
 <?php
 
 return array (
-  'KP-CHA' => 'Chagang',
-  'KP-HAB' => 'North Hamgyong',
-  'KP-HAN' => 'South Hamgyong',
-  'KP-HWB' => 'North Hwanghae',
-  'KP-HWN' => 'South Hwanghae',
-  'KP-KAN' => 'Kangwon',
-  'KP-PYB' => 'North Pyongan',
-  'KP-PYN' => 'South Pyongan',
-  'KP-RYO' => 'Ryanggang',
-  'KP-PYO' => 'Pyongyang',
-  'KP-RAS' => 'Rason',
-  'KP-NAM' => 'Nampo',
+  'KP-CHA' => __('Chagang', 'woocommerce-enhanced-regions'),
+  'KP-HAB' => __('North Hamgyong', 'woocommerce-enhanced-regions'),
+  'KP-HAN' => __('South Hamgyong', 'woocommerce-enhanced-regions'),
+  'KP-HWB' => __('North Hwanghae', 'woocommerce-enhanced-regions'),
+  'KP-HWN' => __('South Hwanghae', 'woocommerce-enhanced-regions'),
+  'KP-KAN' => __('Kangwon', 'woocommerce-enhanced-regions'),
+  'KP-PYB' => __('North Pyongan', 'woocommerce-enhanced-regions'),
+  'KP-PYN' => __('South Pyongan', 'woocommerce-enhanced-regions'),
+  'KP-RYO' => __('Ryanggang', 'woocommerce-enhanced-regions'),
+  'KP-PYO' => __('Pyongyang', 'woocommerce-enhanced-regions'),
+  'KP-RAS' => __('Rason', 'woocommerce-enhanced-regions'),
+  'KP-NAM' => __('Nampo', 'woocommerce-enhanced-regions'),
 );

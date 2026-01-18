@@ -1,8 +1,8 @@
 <?php
 
 return array (
-  'SZ-HH' => 'Hhohho',
-  'SZ-LU' => 'Lubombo',
-  'SZ-MA' => 'Manzini',
-  'SZ-SH' => 'Shiselweni',
+  'SZ-HH' => __('Hhohho', 'woocommerce-enhanced-regions'),
+  'SZ-LU' => __('Lubombo', 'woocommerce-enhanced-regions'),
+  'SZ-MA' => __('Manzini', 'woocommerce-enhanced-regions'),
+  'SZ-SH' => __('Shiselweni', 'woocommerce-enhanced-regions'),
 );

@@ -1,14 +1,14 @@
 <?php
 
 return array (
-  'LT-AL' => 'Alytaus apskritis',
-  'LT-KU' => 'Kauno apskritis',
-  'LT-KL' => 'Klaipėdos apskritis',
-  'LT-MR' => 'Marijampolės apskritis',
-  'LT-PN' => 'Panevėžio apskritis',
-  'LT-SA' => 'Šiaulių apskritis',
-  'LT-TA' => 'Tauragės apskritis',
-  'LT-TE' => 'Telšių apskritis',
-  'LT-UT' => 'Utenos apskritis',
-  'LT-VL' => 'Vilniaus apskritis',
+  'LT-AL' => __('Alytaus apskritis', 'woocommerce-enhanced-regions'),
+  'LT-KU' => __('Kauno apskritis', 'woocommerce-enhanced-regions'),
+  'LT-KL' => __('Klaipėdos apskritis', 'woocommerce-enhanced-regions'),
+  'LT-MR' => __('Marijampolės apskritis', 'woocommerce-enhanced-regions'),
+  'LT-PN' => __('Panevėžio apskritis', 'woocommerce-enhanced-regions'),
+  'LT-SA' => __('Šiaulių apskritis', 'woocommerce-enhanced-regions'),
+  'LT-TA' => __('Tauragės apskritis', 'woocommerce-enhanced-regions'),
+  'LT-TE' => __('Telšių apskritis', 'woocommerce-enhanced-regions'),
+  'LT-UT' => __('Utenos apskritis', 'woocommerce-enhanced-regions'),
+  'LT-VL' => __('Vilniaus apskritis', 'woocommerce-enhanced-regions'),
 );

@@ -1,10 +1,10 @@
 <?php
 
 return array (
-  'BS-NP' => 'New Providence',
-  'BS-GC' => 'Grand Bahama',
-  'BS-AB' => 'Abaco',
-  'BS-EX' => 'Exuma',
-  'BS-AN' => 'Andros',
-  'BS-EL' => 'Eleuthera',
+  'BS-NP' => __('New Providence', 'woocommerce-enhanced-regions'),
+  'BS-GC' => __('Grand Bahama', 'woocommerce-enhanced-regions'),
+  'BS-AB' => __('Abaco', 'woocommerce-enhanced-regions'),
+  'BS-EX' => __('Exuma', 'woocommerce-enhanced-regions'),
+  'BS-AN' => __('Andros', 'woocommerce-enhanced-regions'),
+  'BS-EL' => __('Eleuthera', 'woocommerce-enhanced-regions'),
 );

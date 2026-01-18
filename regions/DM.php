@@ -1,14 +1,14 @@
 <?php
 
 return array (
-  'DM-02' => 'Saint Andrew',
-  'DM-03' => 'Saint David',
-  'DM-04' => 'Saint George',
-  'DM-05' => 'Saint John',
-  'DM-06' => 'Saint Joseph',
-  'DM-07' => 'Saint Luke',
-  'DM-08' => 'Saint Mark',
-  'DM-09' => 'Saint Patrick',
-  'DM-10' => 'Saint Paul',
-  'DM-11' => 'Saint Peter',
+  'DM-02' => __('Saint Andrew', 'woocommerce-enhanced-regions'),
+  'DM-03' => __('Saint David', 'woocommerce-enhanced-regions'),
+  'DM-04' => __('Saint George', 'woocommerce-enhanced-regions'),
+  'DM-05' => __('Saint John', 'woocommerce-enhanced-regions'),
+  'DM-06' => __('Saint Joseph', 'woocommerce-enhanced-regions'),
+  'DM-07' => __('Saint Luke', 'woocommerce-enhanced-regions'),
+  'DM-08' => __('Saint Mark', 'woocommerce-enhanced-regions'),
+  'DM-09' => __('Saint Patrick', 'woocommerce-enhanced-regions'),
+  'DM-10' => __('Saint Paul', 'woocommerce-enhanced-regions'),
+  'DM-11' => __('Saint Peter', 'woocommerce-enhanced-regions'),
 );

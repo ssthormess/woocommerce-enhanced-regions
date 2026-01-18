@@ -1,11 +1,11 @@
 <?php
 
 return array (
-  'CW-WILLEMSTAD' => 'Willemstad',
-  'CW-BARBER' => 'Barber',
-  'CW-SOTO' => 'Soto',
-  'CW-SAINT-WILL' => 'Saint Willibrordus',
-  'CW-TERA-KORA' => 'Tera Kora',
-  'CW-LAGUN' => 'Lagun',
-  'CW-WESTPUNT' => 'Westpunt',
+  'CW-WILLEMSTAD' => __('Willemstad', 'woocommerce-enhanced-regions'),
+  'CW-BARBER' => __('Barber', 'woocommerce-enhanced-regions'),
+  'CW-SOTO' => __('Soto', 'woocommerce-enhanced-regions'),
+  'CW-SAINT-WILL' => __('Saint Willibrordus', 'woocommerce-enhanced-regions'),
+  'CW-TERA-KORA' => __('Tera Kora', 'woocommerce-enhanced-regions'),
+  'CW-LAGUN' => __('Lagun', 'woocommerce-enhanced-regions'),
+  'CW-WESTPUNT' => __('Westpunt', 'woocommerce-enhanced-regions'),
 );

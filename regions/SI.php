@@ -1,15 +1,15 @@
 <?php
 
 return array (
-  'SI-0M' => 'Osrednjeslovenska',
-  'SI-0G' => 'Goriška',
-  'SI-0O' => 'Obalno-kraška',
-  'SI-0P' => 'Primorsko-notranjska',
-  'SI-0S' => 'Savinjska',
-  'SI-0D' => 'Podravska',
-  'SI-0K' => 'Koroška',
-  'SI-0Z' => 'Zasavska',
-  'SI-0B' => 'Posavska',
-  'SI-0J' => 'Jugovzhodna Slovenija',
-  'SI-0N' => 'Pomurska',
+  'SI-0M' => __('Osrednjeslovenska', 'woocommerce-enhanced-regions'),
+  'SI-0G' => __('Goriška', 'woocommerce-enhanced-regions'),
+  'SI-0O' => __('Obalno-kraška', 'woocommerce-enhanced-regions'),
+  'SI-0P' => __('Primorsko-notranjska', 'woocommerce-enhanced-regions'),
+  'SI-0S' => __('Savinjska', 'woocommerce-enhanced-regions'),
+  'SI-0D' => __('Podravska', 'woocommerce-enhanced-regions'),
+  'SI-0K' => __('Koroška', 'woocommerce-enhanced-regions'),
+  'SI-0Z' => __('Zasavska', 'woocommerce-enhanced-regions'),
+  'SI-0B' => __('Posavska', 'woocommerce-enhanced-regions'),
+  'SI-0J' => __('Jugovzhodna Slovenija', 'woocommerce-enhanced-regions'),
+  'SI-0N' => __('Pomurska', 'woocommerce-enhanced-regions'),
 );

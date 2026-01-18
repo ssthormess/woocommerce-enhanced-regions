@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'GF-CAYENNE' => 'Cayenne',
-  'GF-SAINT-LAUR' => 'Saint-Laurent-du-Maroni',
-  'GF-SAINT-GEOR' => 'Saint-Georges',
+  'GF-CAYENNE' => __('Cayenne', 'woocommerce-enhanced-regions'),
+  'GF-SAINT-LAUR' => __('Saint-Laurent-du-Maroni', 'woocommerce-enhanced-regions'),
+  'GF-SAINT-GEOR' => __('Saint-Georges', 'woocommerce-enhanced-regions'),
 );

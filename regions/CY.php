@@ -1,10 +1,10 @@
 <?php
 
 return array (
-  'CY-01' => 'Nicosia',
-  'CY-02' => 'Limassol',
-  'CY-03' => 'Larnaca',
-  'CY-04' => 'Famagusta',
-  'CY-05' => 'Paphos',
-  'CY-06' => 'Kyrenia',
+  'CY-01' => __('Nicosia', 'woocommerce-enhanced-regions'),
+  'CY-02' => __('Limassol', 'woocommerce-enhanced-regions'),
+  'CY-03' => __('Larnaca', 'woocommerce-enhanced-regions'),
+  'CY-04' => __('Famagusta', 'woocommerce-enhanced-regions'),
+  'CY-05' => __('Paphos', 'woocommerce-enhanced-regions'),
+  'CY-06' => __('Kyrenia', 'woocommerce-enhanced-regions'),
 );

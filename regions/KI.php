@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'KI-G' => 'Gilbert Islands',
-  'KI-L' => 'Line Islands',
-  'KI-P' => 'Phoenix Islands',
+  'KI-G' => __('Gilbert Islands', 'woocommerce-enhanced-regions'),
+  'KI-L' => __('Line Islands', 'woocommerce-enhanced-regions'),
+  'KI-P' => __('Phoenix Islands', 'woocommerce-enhanced-regions'),
 );

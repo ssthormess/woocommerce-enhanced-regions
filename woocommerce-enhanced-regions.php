@@ -13,6 +13,11 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
+// Load plugin text domain
+add_action('plugins_loaded', function () {
+    load_plugin_textdomain('woocommerce-enhanced-regions', false, dirname(plugin_basename(__FILE__)) . '/languages');
+});
+
 // Only run if WooCommerce is active
 if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_option('active_plugins')))) {
     add_filter('woocommerce_states', function ($states) {

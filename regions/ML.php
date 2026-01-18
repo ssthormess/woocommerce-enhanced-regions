@@ -1,13 +1,13 @@
 <?php
 
 return array (
-  'ML-BKO' => 'Bamako',
-  'ML-1' => 'Kayes',
-  'ML-2' => 'Koulikoro',
-  'ML-3' => 'Sikasso',
-  'ML-4' => 'Ségou',
-  'ML-5' => 'Mopti',
-  'ML-6' => 'Tombouctou',
-  'ML-7' => 'Gao',
-  'ML-8' => 'Kidal',
+  'ML-BKO' => __('Bamako', 'woocommerce-enhanced-regions'),
+  'ML-1' => __('Kayes', 'woocommerce-enhanced-regions'),
+  'ML-2' => __('Koulikoro', 'woocommerce-enhanced-regions'),
+  'ML-3' => __('Sikasso', 'woocommerce-enhanced-regions'),
+  'ML-4' => __('Ségou', 'woocommerce-enhanced-regions'),
+  'ML-5' => __('Mopti', 'woocommerce-enhanced-regions'),
+  'ML-6' => __('Tombouctou', 'woocommerce-enhanced-regions'),
+  'ML-7' => __('Gao', 'woocommerce-enhanced-regions'),
+  'ML-8' => __('Kidal', 'woocommerce-enhanced-regions'),
 );

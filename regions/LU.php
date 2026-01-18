@@ -1,16 +1,16 @@
 <?php
 
 return array (
-  'LU-CAPELLEN' => 'Capellen',
-  'LU-CLERVAUX' => 'Clervaux',
-  'LU-DIEKIRCH' => 'Diekirch',
-  'LU-ECHTERNACH' => 'Echternach',
-  'LU-ESCH-SUR-A' => 'Esch-sur-Alzette',
-  'LU-GREVENMACH' => 'Grevenmacher',
-  'LU-LUXEMBOURG' => 'Luxembourg',
-  'LU-MERSCH' => 'Mersch',
-  'LU-REDANGE' => 'Redange',
-  'LU-REMICH' => 'Remich',
-  'LU-VIANDEN' => 'Vianden',
-  'LU-WILTZ' => 'Wiltz',
+  'LU-CAPELLEN' => __('Capellen', 'woocommerce-enhanced-regions'),
+  'LU-CLERVAUX' => __('Clervaux', 'woocommerce-enhanced-regions'),
+  'LU-DIEKIRCH' => __('Diekirch', 'woocommerce-enhanced-regions'),
+  'LU-ECHTERNACH' => __('Echternach', 'woocommerce-enhanced-regions'),
+  'LU-ESCH-SUR-A' => __('Esch-sur-Alzette', 'woocommerce-enhanced-regions'),
+  'LU-GREVENMACH' => __('Grevenmacher', 'woocommerce-enhanced-regions'),
+  'LU-LUXEMBOURG' => __('Luxembourg', 'woocommerce-enhanced-regions'),
+  'LU-MERSCH' => __('Mersch', 'woocommerce-enhanced-regions'),
+  'LU-REDANGE' => __('Redange', 'woocommerce-enhanced-regions'),
+  'LU-REMICH' => __('Remich', 'woocommerce-enhanced-regions'),
+  'LU-VIANDEN' => __('Vianden', 'woocommerce-enhanced-regions'),
+  'LU-WILTZ' => __('Wiltz', 'woocommerce-enhanced-regions'),
 );

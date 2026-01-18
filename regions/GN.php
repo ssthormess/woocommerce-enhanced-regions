@@ -1,12 +1,12 @@
 <?php
 
 return array (
-  'GN-C' => 'Conakry',
-  'GN-B' => 'Boké',
-  'GN-K' => 'Kindia',
-  'GN-L' => 'Labé',
-  'GN-M' => 'Mamou',
-  'GN-F' => 'Faranah',
-  'GN-KA' => 'Kankan',
-  'GN-N' => 'Nzérékoré',
+  'GN-C' => __('Conakry', 'woocommerce-enhanced-regions'),
+  'GN-B' => __('Boké', 'woocommerce-enhanced-regions'),
+  'GN-K' => __('Kindia', 'woocommerce-enhanced-regions'),
+  'GN-L' => __('Labé', 'woocommerce-enhanced-regions'),
+  'GN-M' => __('Mamou', 'woocommerce-enhanced-regions'),
+  'GN-F' => __('Faranah', 'woocommerce-enhanced-regions'),
+  'GN-KA' => __('Kankan', 'woocommerce-enhanced-regions'),
+  'GN-N' => __('Nzérékoré', 'woocommerce-enhanced-regions'),
 );
